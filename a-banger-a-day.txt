@@ -2,9 +2,9 @@
 14.1.19: Red Vox - Memento Mori
 14.1.19: Ikimonogakari - 虹
 15.1.19: Super Smash Bros. Brawl - Victory! Ice Climbers
-16.1.19: SiIvaGunner - Deltarune - THE WORLD REVOLVING (OST Version)
+16.1.19: Mitchell - THE WANO REVOLVING
 17.1.19: Made in Abyss - Theme of Reg
-18.1.19: A New World - Final Fantasy II - Rebel Army Theme
+18.1.19: A New World: Intimate Music from Final Fantasy - Rebel Army Theme (From "Final Fantasy II")
 20.1.19: Bag Raiders - Shooting Stars
 20.1.19: Kohmi Hirose - Promise
 21.1.19: Johannes Brahms - Violin Concerto in D major Op. 77, Movement 3
@@ -33,10 +33,10 @@
 13.2.19: The Legend of Zelda: Spirit Tracks - Overworld Adventure
 13.2.19: Ikimonogakari - くちづけ
 14.2.19: Rona Kenan - הריקוד המוזר של הלב
-15.2.19: SiIvaGunner - Touhou 9: Phantasmagoria of Flower View - Wind God Girl
+15.2.19: UUN4 - Wind God Villain Number One
 16.2.19: BrunuhVille - Hero's Journey
 17.2.19: חדוה ודוד - oאני חולם על נעמי
-18.2.19: SiIvaGunner - Super Mario Odyssey - Steam Gardens (CD Version)
+18.2.19: New Guy - Viva La Steam Gardens
 19.2.19: Jethro Tull - Bourée
 20.2.19: FantomenK - Goodbye Summer, Hello Winter
 21.2.19: Attack on Titan Season 2 - Barricades
@@ -48,13 +48,13 @@
 27.2.19: Pokémon Advanced Battle - Unbeatable
 28.2.19: SiIvaGunner King for a Day Tournament - Scheming Weasel
 --MARCH--
-1.3.19: SiIvaGunner - Shovel Knight - Strike the Earth! (Plains of Passage)
+1.3.19: UUN4 - Plains of Des-passing-to
 2.3.19: Sabaton - Attero Dominatus
 3.3.19: The Legend of Zelda: Breath of the Wild - Riding - Night
 4.3.19: The Wonderful 101 - The Won-Stoppable Wonderful 100 (JP)
 5.3.19: Mike Oldfield - Nuclear
 6.3.19: Ikimonogakari - ホタルノヒカリ
-7.3.19: Distant Worlds II - Final Fantasy XI - Ronfaure
+7.3.19: Distant Worlds II: More Music from Final Fantasy - Ronfaure (From "Final Fantasy XI")
 8.3.19: Splatoon 2 - Tidal Rush
 9.3.19: Green Leaves - Yatta
 10.3.19: Red Velvet - I Just
@@ -104,7 +104,7 @@
 23.4.19: Sabaton - Bismarck
 24.4.19: Miracle of Sound - Rebirth
 24.4.19: BTS - Intro: Persona
-25.4.19: The Black Mages - Final Fantasy V - Clash on the Big Bridge
+25.4.19: The Black Mages - Clash on the Big Bridge
 26.4.19: אושיק לוי - oטוליק
 27.4.19: Touhou 4: Lotus Land Story - Witching Dream
 29.4.19: King Crimson - Epitaph
@@ -381,7 +381,7 @@
 15.1.20: Super Smash Bros. Melee - Victory! (Ness)
 16.1.20: Toonlink - Ballad of Thoughts All Alone
 17.1.20: Made in Abyss - Hanazeve Caradinha (ft. Takeshi Saito)
-18.1.20: Distant Worlds III - Final Fantasy IX - Not Alone
+18.1.20: Distant Worlds III: More Music from Final Fantasy - Not Alone (From "Final Fantasy IX")
 20.1.20: Loituma - Ievan Polkka
 20.1.20: Rick Astley - Never Gonna Give You Up
 21.1.20: Pink Floyd - Echoes (Live At Pompeii)
