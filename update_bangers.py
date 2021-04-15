@@ -7,8 +7,8 @@ BANGER_SNIPPET_GUESSING_GAME_FILE = 'banger-snippet-guessing-game.txt'
 
 def add_line_to_file(file_name, line):
     with open(file_name, 'a') as f:
-        f.write(line)
         f.write('\n')
+        f.write(line)
 
 def add_banger(args):
     banger_text = args.date + ": " + args.artist + " - " + args.title
