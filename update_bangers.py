@@ -3,20 +3,22 @@ import argparse
 BANGER_LIST_FILE = 'a-banger-a-day.txt'
 BANGER_GUESSING_GAME_FILE = 'banger-guessing-game.txt'
 BANGER_SNIPPET_GUESSING_GAME_FILE = 'banger-snippet-guessing-game.txt'
+LINE_FEED = '\n'.encode('utf8')
 
 
 def add_line_to_file(file_name, line):
-    with open(file_name, 'a') as f:
-        f.write('\n')
+    with open(file_name, 'ab') as f:
+        f.write(LINE_FEED)
         f.write(line)
 
 def add_banger(args):
     banger_text = args.date + ": " + args.artist + " - " + args.title
-    add_line_to_file(BANGER_LIST_FILE, banger_text)
-    add_line_to_file(BANGER_SNIPPET_GUESSING_GAME_FILE, banger_text)
+    unicode_banger_text = banger_text.encode('utf8')
+    add_line_to_file(BANGER_LIST_FILE, unicode_banger_text)
+    add_line_to_file(BANGER_SNIPPET_GUESSING_GAME_FILE, unicode_banger_text)
     if args.lyrics:
-        add_line_to_file(BANGER_GUESSING_GAME_FILE, banger_text)
-    print(f"Added Banger:\n{banger_text}")
+        add_line_to_file(BANGER_GUESSING_GAME_FILE, unicode_banger_text)
+    print(f"Added Banger:\n{unicode_banger_text}")
 
 
 parser = argparse.ArgumentParser(description='Process some integers.')
