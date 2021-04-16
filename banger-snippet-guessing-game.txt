@@ -1,5 +1,4 @@
 24.4.19: BTS - Intro: Persona
-5.9.19: The Charlie Daniels Band - The Devil Comes Back to Georgia
 24.12.19: The Killers - Don't Shoot Me Santa
 26.12.19: Cage the Elephant - Ain't No Rest for the Wicked
 21.2.20: Bent Knee - Catch Light
@@ -7,7 +6,6 @@
 29.4.20: Dungeon Fighter - Tomboyish Becky Theme
 19.5.20: Mariya Takeuchi - 夢の続き
 31.5.20: Y2K - Lalala
-2.6.20: Jimi Hendrix - All Along the Watchtower
 27.6.20: ASIAN KUNG-FU GNERATION - Blood Circulator
 10.7.20: Nick Drake - Place to Be
 16.7.20: Impostor Factory - To Chase a Murderer
@@ -146,3 +144,4 @@
 13.4.21: It's Magic - Taisei Iwasaki
 13.4.21: התזמורת הפילהרמונית הישראלית - התקווה
 15.4.21: Round Table - Groovin' Magic
+16.4.21: Jigoku no Sata All-Stars - 地獄の沙汰も君次第 // Jigoku no Sata mo Kimi Shidai
