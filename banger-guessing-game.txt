@@ -71,7 +71,6 @@
 27.6.20: ASIAN KUNG-FU GNERATION - Blood Circulator
 1.7.20: Queen - Radio Ga Ga
 7.7.20: The Beatles - I Am the Walrus
-9.7.20: Fear, and Loathing in Las Vegas - Just Awake
 11.7.20: Red Vox - Apathetic Empathy
 12.7.20: Stray Dogs - SLUMP (Japanese Version)
 13.7.20: Patricia Taxxon - sd_bbb
@@ -232,7 +231,6 @@
 25.3.21: Guilty Kiss - Phantom Rocket Adventure
 26.3.21: Radiohead - Pyramid Song
 27.3.21: ברי סחרוף - עבדים
-28.3.21: The Prince of Egypt - Deliver Us
 30.3.21: Persona 5 - Rivers in the Desert
 31.3.21: Pop Team Epic - POP TEAM EPIC
 1.4.21: Anza - 扉を開けて // Tobira wo Akete
@@ -255,3 +253,5 @@
 20.4.21: Afroman - Because I Got High
 21.4.21: TeddyLoid - ME!ME!ME! feat. Daoko
 22.4.21: Arctic Monkeys - Do I Wanna Know?
+23.4.21: The Megas - You've Sparked a War
+23.4.21: The Megas - GeminEye
