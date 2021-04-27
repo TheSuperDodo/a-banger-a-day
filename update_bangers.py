@@ -6,6 +6,19 @@ BANGER_SNIPPET_GUESSING_GAME_FILE = 'banger-snippet-guessing-game.txt'
 LINE_FEED = '\n'.encode('utf8')
 
 
+def upload():
+    # Receive auth token
+    with open("usr-pass.txt", "r") as up:
+        data = up.read()
+        token = data.rstrip("\n")
+    g = github.Github("token")
+    repo = g.get_repo("TheSuperDodo/a-banger-a-day")
+    file = repo.get_contents("a-banger-a-day.txt")
+    bangers = ""
+    with open (BANGER_LIST_FILE, "r") as bangersFile:
+        bangers=bangersFile.read()
+    repo.update_file("a-banger-a-day.txt", args.date, bangers, file.sha)
+
 def add_line_to_file(file_name, line):
     with open(file_name, 'ab') as f:
         f.write(LINE_FEED)
@@ -19,6 +32,7 @@ def add_banger(args):
     if args.lyrics:
         add_line_to_file(BANGER_GUESSING_GAME_FILE, unicode_banger_text)
     print(f"Added Banger:\n{unicode_banger_text}")
+    upload()
 
 
 parser = argparse.ArgumentParser(description='Process some integers.')
@@ -36,3 +50,5 @@ parser_update.set_defaults(func=add_banger)
 
 args = parser.parse_args()
 args.func(args)
+
+
