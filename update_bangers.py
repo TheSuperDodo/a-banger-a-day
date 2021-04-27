@@ -1,4 +1,4 @@
-import argparse
+import argparse, github
 
 BANGER_LIST_FILE = 'a-banger-a-day.txt'
 BANGER_GUESSING_GAME_FILE = 'banger-guessing-game.txt'
@@ -11,11 +11,11 @@ def upload():
     with open("usr-pass.txt", "r") as up:
         data = up.read()
         token = data.rstrip("\n")
-    g = github.Github("token")
+    g = github.Github(token)
     repo = g.get_repo("TheSuperDodo/a-banger-a-day")
     file = repo.get_contents("a-banger-a-day.txt")
     bangers = ""
-    with open (BANGER_LIST_FILE, "r") as bangersFile:
+    with open (BANGER_LIST_FILE, "rb") as bangersFile:
         bangers=bangersFile.read()
     repo.update_file("a-banger-a-day.txt", args.date, bangers, file.sha)
 
