@@ -82,7 +82,6 @@
 2.2.21: Ralph McTell - Streets of London
 3.2.21: John Denver - Take Me Home, Country Roads
 4.2.21: Franz Ferdinand - No You Girls
-4.2.21: The Black Keys - Lonely Boy
 7.2.21: Britney Spears - Womanizer
 8.2.21: Don McLean - American Pie
 9.2.21: KOBASOLO & Harutya - Lemon
@@ -110,7 +109,6 @@
 12.3.21: Daft Punk - Da Funk
 13.3.21: מרצדס בנד - בואי ונביא לך ת'פאנק
 14.3.21: Michael Jackson - Billie Jean
-15.3.21: Persona 4 - Specialist
 16.3.21: Catherine - An die Freude
 17.3.21: Red Hot Chili Peppers - Can't Stop
 18.3.21: FAUN - Federkleid
@@ -151,3 +149,6 @@
 22.4.21: Arctic Monkeys - Do I Wanna Know?
 23.4.21: The Megas - You've Sparked a War
 23.4.21: The Megas - GeminEye
+24.4.21: Coral - Si Tous le Oiseaux
+26.4.21: Daði Freyr - Think About Things
+27.4.21: תיסלם - רדיו חזק

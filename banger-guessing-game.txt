@@ -22,7 +22,6 @@
 4.12.19: Coda - Crazy My Beat
 10.12.19: Ni no Kuni: Wrath of the White Witch - Kokoro no Kakera
 11.12.19: Haken - Falling Back to Earth
-17.12.19: Code Lyoko - A World Without Danger
 23.12.19: Yes - Roundabout
 28.12.19: Slick Rick - Children's Story
 3.1.20: The Dear Hunter - Blame Paradise
@@ -30,7 +29,6 @@
 9.1.20: Whiplash - Caravan
 21.1.20: Pink Floyd - Echoes (Live At Pompeii)
 22.1.20: Transatlantic - Duel with the Devil
-29.1.20: Dream Theater - The Dance of Eternity
 2.2.20: Oingo Boingo - Weird Science
 6.2.20: The Mars Volta - Roulette Dares (The Haunt Of)
 9.2.20: Rush - Fly by Night
@@ -128,7 +126,6 @@
 2.11.20: ALL OFF - Refrain Boy
 3.11.20: bill wurtz - might quit
 4.11.20: Ikimonogakari - 青春のとびら
-6.11.20: שלומי שבת - אבא
 7.11.20: YOASOBI - 群青
 10.11.20: שירי מרפסת - כן ניגשתי לעידו
 11.11.20: X-Japan - Born to Be Free
@@ -255,3 +252,6 @@
 22.4.21: Arctic Monkeys - Do I Wanna Know?
 23.4.21: The Megas - You've Sparked a War
 23.4.21: The Megas - GeminEye
+24.4.21: Coral - Si Tous le Oiseaux
+26.4.21: Daði Freyr - Think About Things
+27.4.21: תיסלם - רדיו חזק
