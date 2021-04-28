@@ -42,7 +42,6 @@ def add_banger(args):
     if args.lyrics:
         add_line_to_file(BANGER_GUESSING_GAME_FILE, unicode_banger_text)
     print(f"Added Banger:\n{unicode_banger_text}")
-    upload()
 
 
 parser = argparse.ArgumentParser(description='Process some integers.')
