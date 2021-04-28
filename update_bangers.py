@@ -1,28 +1,38 @@
-import argparse, github
+import argparse, github, base64
 
 BANGER_LIST_FILE = 'a-banger-a-day.txt'
 BANGER_GUESSING_GAME_FILE = 'banger-guessing-game.txt'
 BANGER_SNIPPET_GUESSING_GAME_FILE = 'banger-snippet-guessing-game.txt'
 LINE_FEED = '\n'.encode('utf8')
 
-
-def upload():
-    # Receive auth token
+def get_repo():
+# Receive auth token
     with open("usr-pass.txt", "r") as up:
         data = up.read()
         token = data.rstrip("\n")
-    g = github.Github(token)
-    repo = g.get_repo("TheSuperDodo/a-banger-a-day")
-    file = repo.get_contents("a-banger-a-day.txt")
+        g = github.Github(token)
+        return g.get_repo("TheSuperDodo/a-banger-a-day")
+    
+def download(fileToDownload, repo):
+    gitBangerFile = base64.b64decode(repo.get_contents(fileToDownload).content)
+    with open (fileToUpload, "wb") as bangersFile:
+        bangersFile.write(gitBangerFile)
+
+def upload(fileToUpload, repo):
+    gitBangerFile = repo.get_contents(fileToUpload)
     bangers = ""
-    with open (BANGER_LIST_FILE, "rb") as bangersFile:
+    with open (fileToUpload, "rb") as bangersFile:
         bangers=bangersFile.read()
-    repo.update_file("a-banger-a-day.txt", args.date, bangers, file.sha)
+    repo.update_file(fileToUpload, args.date, bangers, gitBangerFile.sha)
 
 def add_line_to_file(file_name, line):
+    repo = get_repo()
+    download(file_name, repo)
     with open(file_name, 'ab') as f:
         f.write(LINE_FEED)
         f.write(line)
+    upload(file_name, repo)
+    
 
 def add_banger(args):
     banger_text = args.date + ": " + args.artist + " - " + args.title
