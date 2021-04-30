@@ -15,7 +15,7 @@ def get_repo():
     
 def download(fileToDownload, repo):
     gitBangerFile = base64.b64decode(repo.get_contents(fileToDownload).content)
-    with open (fileToUpload, "wb") as bangersFile:
+    with open (fileToDownload, "wb") as bangersFile:
         bangersFile.write(gitBangerFile)
 
 def upload(fileToUpload, repo):
