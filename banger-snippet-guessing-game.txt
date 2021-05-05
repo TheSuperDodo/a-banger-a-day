@@ -19,7 +19,6 @@
 13.9.20: Hercules - Zero to Hero
 16.9.20: ג'יין בורדו - תנו לנמנם
 26.9.20: FabvL ft. DizzyEight - Decay
-2.10.20: Onra - A都市の秋
 13.10.20: Xenoblade Chronicles X - Wir fliegen
 22.10.20: Gotye - Somebody That I Used To Know
 23.10.20: אביב גפן - עונות
@@ -121,7 +120,6 @@
 27.3.21: ברי סחרוף - עבדים
 28.3.21: The Prince of Egypt - Deliver Us
 29.3.21: Yakuza 0 - ばかみたい // Baka Mitai
-30.3.21: Persona 5 - Rivers in the Desert
 31.3.21: Pop Team Epic - POP TEAM EPIC
 1.4.21: Anza - 扉を開けて // Tobira wo Akete
 2.4.21: amazarashi - 空に歌えば // Sora ni Utaeba
@@ -157,3 +155,5 @@
 2.5.21: Moana - How Far I'll Go
 2.5.21: Moana - You're Welcome
 3.5.21: Tangled - I See the Light
+5.5.21: Treasure Island - I'm Still Here (Jim's Theme)
+5.5.21: Star Wars: The Empire Strikes Back - The Imperial March (Darth Vader's Theme)

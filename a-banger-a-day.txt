@@ -868,3 +868,5 @@
 2.5.21: Moana - How Far I'll Go
 2.5.21: Moana - You're Welcome
 3.5.21: Tangled - I See the Light
+5.5.21: Treasure Island - I'm Still Here (Jim's Theme)
+5.5.21: Star Wars: The Empire Strikes Back - The Imperial March (Darth Vader's Theme)
