@@ -76,7 +76,6 @@
 23.7.20: Akihisa Kondou - Black Night Town
 26.7.20: Hiroaki Tommy Tominaga - その血の記憶~END OF THE WORLD~
 29.7.20: LAST IDOL - 愛を知る
-31.7.20: Queen - Innuendo
 1.8.20: Konomi Suzuki - Redo
 2.8.20: Haken - Puzzle Box
 3.8.20: Oasis - Wonderwall
@@ -116,7 +115,6 @@
 19.10.20: YOASOBI - 夜に駆ける
 20.10.20: Jim's Big Ego - Stress
 21.10.20: Thank You Scientist - A Salesman's Guide to Non-Existence
-22.10.20: Gotye - Somebody That I Used To Know
 23.10.20: אביב גפן - עונות
 25.10.20: Caroline Konstnar - Lonely Halloween Song
 26.10.20: The Who - Trick of the Light
@@ -257,3 +255,6 @@
 2.5.21: Moana - You're Welcome
 3.5.21: Tangled - I See the Light
 5.5.21: Treasure Island - I'm Still Here (Jim's Theme)
+6.5.21: Kingdom Hearts - Simple and Clean
+7.5.21: Phil Collins - On My Way
+8.5.21: Princess and the Frog - Dig a Little Deeper

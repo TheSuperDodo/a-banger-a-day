@@ -68,7 +68,6 @@
 17.1.21: Ikimonogakari - BAKU
 18.1.21: Kirby Air Ride - Checker Knights
 20.1.21: Kohmi Hirose - Groovy!
-21.1.21: Eric Clapton - Tears in Heaven
 22.1.21: Garden of Words - Rain
 23.1.21: TeddyLoid - Pipo Password
 24.1.21: LAST IDOL - 壁は続く // Kabe wa Tsuzuku
@@ -137,7 +136,6 @@
 14.4.21: התזמורת הפילהרמונית הישראלית - התקווה
 15.4.21: Round Table - Groovin' Magic
 16.4.21: Jigoku no Sata All-Stars - 地獄の沙汰も君次第 // Jigoku no Sata mo Kimi Shidai
-17.4.21: Kiyoura Natsumi - 旅の途中 // Tabi no Tochuu
 18.4.21: Persona 4 The Animation - Beauty of Destiny
 19.4.21: ReoNa - ないない // Nainai
 20.4.21: Afroman - Because I Got High
@@ -157,3 +155,6 @@
 3.5.21: Tangled - I See the Light
 5.5.21: Treasure Island - I'm Still Here (Jim's Theme)
 5.5.21: Star Wars: The Empire Strikes Back - The Imperial March (Darth Vader's Theme)
+6.5.21: Kingdom Hearts - Simple and Clean
+7.5.21: Phil Collins - On My Way
+8.5.21: Princess and the Frog - Dig a Little Deeper
