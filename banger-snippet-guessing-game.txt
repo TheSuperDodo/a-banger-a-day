@@ -28,7 +28,6 @@
 14.11.20: פנחס ובניו - עץ שנופל
 16.11.20: LiSA - Catch the Moment (The First Take)
 18.11.20: Syauri - Parallel Line (me Hikigatari Version)
-20.11.20: Camel - Rhayader
 22.11.20: Elton John - Goodbye Yellow Brick Road
 23.11.20: David Bowie - Moonage Daydream
 26.11.20: Rob Cantor - I'M GONNA WIN
@@ -53,7 +52,6 @@
 1.1.21: The Who - 1921
 3.1.21: RADWIMPS - 前前前世
 4.1.21: XX: me - ひとり
-5.1.21: Michael Jackson - Bad
 6.1.21: Rosemary Fairweather - Good News
 7.1.21: The Doors - Riders on the Storm
 8.1.21: David Bowie - Blackstar
@@ -178,3 +176,6 @@
 2.6.21: The Lonely Island feat. Michael Bolton - Jack Sparrow
 3.6.21: Ikimonogakari - 太陽 // Taiyou
 4.6.21: Mike Oldfield ft. Maggie Reilly - Moonlight Shadow
+5.6.21: Kirby Triple Deluxe - Fatal Blooms in Moonlight
+6.6.21: Ludwig van Beethoven - Piano Sonata No. 14 in C# Minor, Op. 27 No. 2 "Moonlight" Movement 3
+7.6.21: אביב גפן - אור הירח
