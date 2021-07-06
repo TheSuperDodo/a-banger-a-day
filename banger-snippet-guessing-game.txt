@@ -146,11 +146,9 @@
 10.5.21: צביקה פיק - הרקדן האוטומטי
 11.5.21: THE iDOLM@STER - Kyun! Vampire Girl
 12.5.21: SIAMÈS - The Wolf
-13.5.21: TWRP feat. Ninja Sex Party - The Hit
 14.5.21: Creedence Clearwater Revival - Have You Seen The Rain?
 15.5.21: The World Ends With You - Calling
 16.5.21: כוורת - מדינה קטנה
-17.5.21: Smashing Pumpkins - Today
 18.5.21: Notre Dame de Paris - Belle
 19.5.21: Ru's Piano - Weight of the World
 22.5.21: יוני רכטר - הפיג'מות
@@ -195,3 +193,4 @@
 29.6.21: Nikki+ - Moonlicker
 30.6.21: Puella Magi Madoka Magica - Puella in Somnio
 30.6.21: MapleStory - Ellinia: Moonlight Shadow
+2.7.21: Cream - Sunshine of Your Love

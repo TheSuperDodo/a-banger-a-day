@@ -133,7 +133,6 @@
 3.12.20: Elton John - Your Song
 5.12.20: OR3O - Help Me
 6.12.20: Bent Knee - Hold Me In
-7.12.20: Attack on Titan - Zero Eclipse
 8.12.20: ZUTOMAYO - 勘ぐれい
 10.12.20: Vine - Walking Illusion (Counting Sand)
 11.12.20: הלהקה - שלווה
@@ -153,7 +152,6 @@
 4.1.21: XX: me - ひとり
 5.1.21: Michael Jackson - Bad
 6.1.21: Rosemary Fairweather - Good News
-7.1.21: The Doors - Riders on the Storm
 8.1.21: David Bowie - Blackstar
 12.1.21: Hrdza - Štefan
 14.1.21: SID - Rain
@@ -282,3 +280,4 @@
 25.6.21: The World Ends With You - Twister
 27.6.21: To The Moon - For River - Piano (Johnny's Version)
 28.6.21: Porcupine Tree - The Moon Touches Your Shoulder
+2.7.21: Cream - Sunshine of Your Love
