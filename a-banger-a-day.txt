@@ -804,6 +804,7 @@
 --MARCH--
 1.3.21: Stealers Wheel - Stuck In The Middle With You
 2.3.21: Twilight Force - Guardian of the Seas
+3.3.21: The Eagles - Hotel California
 4.3.21: Laputa: Castle in the Sky - 君をのせて // Kimi wo Nosete
 5.3.21: Pink Floyd - Us and Them
 6.3.21: Ikimonogakari - 秋桜 // Kosumosu
@@ -903,7 +904,7 @@
 5.6.21: Kirby Triple Deluxe - Fatal Blooms in Moonlight
 6.6.21: Ludwig van Beethoven - Piano Sonata No. 14 in C# Minor, Op. 27 No. 2 "Moonlight" Movement 3
 7.6.21: אביב גפן - אור הירח
-8.6.11: Dali - ムーンライト伝説 // Moonlight Densetsu
+8.6.21: Dali - ムーンライト伝説 // Moonlight Densetsu
 9.6.21: Genesis - Dancing with the Moonlit Knight
 10.6.21: Stardew Valley - Dance of the Moonlight Jellies
 11.6.21: Ikimonogakari - 真昼の月 // Mahiru no Tsuki
@@ -998,3 +999,214 @@
 5.9.21: Electric Light Orchestra - Telephone Line
 8.9.21: UNDER NIGHT IN-BIRTH Exe:Late[cl-r] - Incompatible Relation
 8.9.21: יגאל בשן - כמו צועני
+9.9.21: Bonnie Tyler - Holding Out for a Hero
+10.9.21: The Promised Neverland - Isabella's Lullaby
+11.9.21: Xenoblade Chronicles 2 - Spirit Crucible Elpys
+11.9.21: Xenoblade Chronicles 2 - Mor Ardain ~Roaming the Wastes~
+13.9.21: Machico - fantastic dreamer
+14.9.21: The Flaming Lips - Do You Realize??
+17.9.21: Rhythm Heaven Fever - Dreams of Our Generation (Night Walk)
+18.9.21: Deltarune - Field of Hopes and Dreams
+18.9.21: Scorpions - Winds of Change
+19.9.21: Nick Johnston - Remarkably Human
+19.9.21: Michael Guy Bowman - Tribes
+19.9.21: Xenosaga II - chase
+20.9.21: Æther Realm - The Sun, The Moon, The Star
+21.9.21: Logic - Beggin
+22.9.21: ששת - ענבלים
+23.9.21: Jason Mraz - I'm Yours
+24.9.21: Hair - Sodomy
+25.9.21: The Orion Experience - The Cult of Dionysus
+27.9.21: Boney M. - Rasputin
+27.9.21: System of a Down - Chop Suey!
+28.9.21: Quan 9 & Hi de Guo Yuetan Hidii & Qianzhi Daren - 權御天下 // Sun Quan the Emperor
+29.9.21: Badfinger - Baby Blue
+30.9.21: The World Ends With You - Deja Vu
+--OCTOBER--
+1.10.21: Elvin Bishop - Fooled Around And Fell In Love
+2.10.21: Aimer - 茜さす // Akanesasu
+3.10.21: The Sims 4 - Here Come the Autumn
+4.10.21: Touhou 10: Mountain of Faith - Fall of Fall ~ Autumnal Waterfall
+5.10.21: Risk of Rain - Chanson d'Automne...
+6.10.21: Eric Clapton - Autumn Leaves
+7.10.21: War of the Worlds - Forever Autumn
+8.10.21: Kaguya-sama: Love is War - ソーラン節 // SORAN BUSHI
+9.10.21: The Binding of Isaac: Repentance - River of Despair (Downpour)
+10.10.21: Phoenix Wright: Ace Attorney - Pursuit ~ Cornered
+11.10.21: Streets of Rage 2 - Dreamer
+12.10.21: Chris De Burgh - Spanish Train
+13.10.21: Re:Zero − Starting Life in Another World - Requiem of Silence
+14.10.21: U2 - Beautiful Day
+16.10.21: Aimyon - Marigold
+16.10.21: Yume Matsutoya - Rouge no Dengon
+17.10.21: Real Faction - Simple Sight
+18.10.21: digboy - The Sound (Rude Lee Remix)
+19.10.21: Susan Sarandon - Touch-A, Touch-A, Touch Me
+20.10.21: Herb Alpert - A Taste Of Honey
+21.10.21: Nirvana - Smells Like Teen Spirit
+22.10.21: Mob Psycho 100 - Kyoutou to Tassei Kan
+24.10.21: Ikimonogakari - 恋詩 // Koi Uta
+24.10.21: Ikimonogakari - 恋跡 // Koi Ato
+25.10.21: "Weird" Al Yankovic - Eat It
+26.10.21: Queen - Love Of My Life
+27.10.21: Trouble Chocolate - C.H.O.C.O.
+28.10.21: Alanis Morissette - You Oughta Know
+29.10.21: Wolfgang Amadeus Mozart - Requiem in D minor, K.626 III. Sequentia - Dies irae
+31.10.21: Pink Floyd - Comfortably Numb
+31.10.21: Queen - Bohemian Rhapsody
+--NOVEMBER--
+1.11.21: גזוז - היא לא תדע
+3.11.21: FIELD OF VIEW - DAN DAN心魅かれて // Kokoro Hikareteku
+6.11.21: Fire Emblem Awakening - Conquest
+6.11.21: Bruce Springsteen - Glory Days
+6.11.21: 8 Bit Universe - Wake Me Up Before You Go-Go
+7.11.21: Kaguya-sama: Love is War - Chikatto Chika Chika
+8.11.21: Rex Orange County - Loving is Easy (feat. Benny Sings)
+9.11.21: Yakuza 0 - 刹那の人魚姫 // Setsuna no Ningyo-hime ~Heart Break Mermaid~
+11.11.21: Utada Hikaru - Beautiful World
+12.11.21: Persona 3 FES - P3 fes
+12.11.21: PERSONA3 THE MOVIE - Burn My Dread -Last Battle- (future arrange)
+12.11.21: Aladdin - Speechless
+13.11.21: Opeth - Coil
+15.11.21: Sabaton - To Hell and Back
+15.11.21: Bobby McFerrin - Don't Worry Be Happy
+17.11.21: E-Force - Join The Rebellion
+18.11.21: Stella Jang - Villain
+20.11.21: Guns N' Roses - November Rain
+20.11.21: Risk of Rain - Coalescence
+21.11.21: Night in the Woods - Rainy Day
+21.11.21: הכבש השישה עשר - ברקים ורעמים
+22.11.21: Stella Jang - L'Amour, Les Baguettes, Paris
+23.11.21: Falconshield - War Machine
+24.11.21: The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1
+25.11.21: Two Steps From Hell - United We Stand, Divided We Fall
+26.11.21: The Who - 905
+27.11.21: Falconshield - Someone Like Me
+28.11.21: Queen - Machines (Or Back To Humans)
+30.11.21: Xenoblade Chronicles - Mechanical Rhythm
+--DECEMBER--
+1.12.21: Sid Meier's Civilization V - Elipse
+1.12.21: Final Fantasy XIV: Shadowbringers - Civilizations
+3.12.21: כוכבת על - חבל שלא נולדתי חתול
+3.12.21: Mild High Club - Windowpane
+5.12.21: Martian Mixtape - Egomania
+6.12.21: The World Ends With You - Lullaby For You
+6.12.21: Phil Collins - In The Air Tonight
+9.12.21: Scorpions - Send Me an Angel
+9.12.21: Haken - The Good Doctor
+11.12.21: Joy Division - Love Will Tear Us Apart
+12.12.21: Divinity: Original Sin - Bittersweet Regrets
+13.12.21: Franz Liszt - Liebestraum No. 3
+13.12.21: Fritz Kreisler - Liebesleid
+14.12.21: Jin - Kagerou Days
+15.12.21: Nirvana - Lithium
+15.12.21: MACROSS 82-99 - Horsey (feat. Sarah Bonito)
+16.12.21: גידי גוב - אין לי כסף
+17.12.21: Yes - South Side of the Sky
+17.12.21: Jethro Tull - Too Old to Rock 'n' Roll: Too Young to Die
+18.12.21: Bring Me The Horizon - Can You Feel My Heart
+20.12.21: Daft Punk - Get Lucky
+21.12.21: Ninja Sex Party - 6969
+22.12.21: TWRP - Atomic Karate
+23.12.21: GING NANG BOYZ - 少年少女 // Shounen Shoujo
+24.12.21: GlitchxCity - Game Corner Remix V.II
+25.12.21: Chieri Itou - Merry Christmas
+26.12.21: Earthbound - Theme of Twoson: Boy Meets Girl
+28.12.21: Gloria Gaynor - I Will Survive
+28.12.21: Yousei Teikoku - 空想メソロギヰ // Kuusou Mesorogiwi
+30.12.21: Chicago - Hard to Say I'm Sory / Get Away
+31.12.21: ABBA - Happy New Year
+--JANUARY--
+1.1.22: Ikimonogakari - KIRA☆KIRA☆TRAIN
+2.1.22: Mariya Takeuchi - 駅 // Eki
+2.1.22: Porcupine Tree - Trains
+3.1.22: Train - Drops of Jupiter
+4.1.22: A Hat in Time - Train Rush
+5.1.22: The Legend of Zelda: Spirit Tracks - In the Fields
+6.1.22: להקת פיקוד צפון - קום והתהלך בארץ
+7.1.22: The Alan Parsons Project - Children of the Moon
+8.1.22: The Weeknd - Blinding Lights
+9.1.22: Cage The Elephant - Black Madonna
+10.1.22: Deep Purple - Highway Star
+11.1.22: Turin Brakes - Long Distance
+12.1.22: Sungha Jung - Canon Rock
+14.1.22: Red Vox - Settle for Less
+14.1.22: גידי גוב - יש אי שם
+15.1.22: קונה קינן - אתה מתעורר
+16.1.22: Matilda the Musical - Naughty
+17.1.22: Doctor Who - This is Gallifrey: Our Childhood. Our Home.
+18.1.22: Super Smash Bros. Brawl - Main Theme
+19.1.22: Orchestral Manoeuvres in the Dark - Enola Gay
+20.1.22: Yellow Magic Orchestra - RYDEEN
+21.1.22: Red Vox - Be Someone Forever
+22.1.22: Linkin Park - What I've Done
+23.1.22: המכשפות - עד העונג הבא
+24.1.22: Bill Withers - Ain't No Sunshine
+25.1.22: LiSA - Crossing Field
+26.1.22: Colours and Mayhem Universe A - Purple Tyrant
+27.1.22: Shoko Nakagawa - Sorairo Days
+28.1.22: Tally Hall - Greener
+29.1.22: The Dear Hunter - What It Means To Be Alone
+30.1.22: Persona 4 Arena - Now I Know
+31.1.22: MOBILE SUIT GUNDAM WING - Just Communication
+--FEBRUARY--
+1.2.22: The Beatles - Eleanor Rigby
+2.2.22: Miki Matsubara - 真夜中のドア // Mayonaka no Door/Stay With Me
+3.2.22: Felix Mendelssohn - Violin Concerto in E minor, Op. 64, Movement 1
+4.2.22: Dan Bull - Civilization Epic Rap
+5.2.22: Yakushimaru Etusko - nekomeshi
+6.2.22: Scorpions - Gypsy Life
+7.2.22: Kero Kero Bonito - Make Believe
+8.2.22: Mili - Rightfully
+9.2.22: Inception - Time
+10.2.22: Xenoblade Chronicles: Future Connected - Time to Fight! (Bionis' Shoulder)
+11.2.22: Kiethevez - A Million Days
+12.2.22: King Gnu - 白日 // Hakujitsu
+13.2.22: Ninja Sex Party - Danny Don't You Know
+14.2.22: Your Lie in April - Again
+15.2.22: ג'ימבו ג'יי ולהקת ספא - מאמי אני על זה
+16.2.22: insaneintherainmusic - Coconut Mall
+17.2.22: Debussy - Clair de Lune
+18.2.22: Amy Winehouse - Back to Black
+19.2.22: cinnamons x evening cinema - summertime
+20.2.22: ICO - ICO -You were there-
+21.2.22: Dreamtale - Intro
+22.2.22: The Honeysticks - Out Like a Light 2
+24.2.22: Command & Conquer: Red Alert 3 - Soviet March
+24.2.22: Kero Kero Bonito - The One True Path
+27.2.22: Mawatari Matsuko - Hohoemi no Bakudan
+27.2.22: Joe Dassin - Les Champs-Elyseés
+27.2.22: Hunter x Hunter - Kusari Yarou (Kurapica's Theme)
+28.2.22: OneRepublic - Counting Stars
+--MARCH--
+1.3.22: Muse - Uprising
+2.3.22: chihiRo - Honey
+3.3.22: Dusty Springfield - Son Of A Preacher Man
+4.3.22: Nirvana - In Bloom
+5.3.22: Autoheart - Into the Woods
+6.3.22: Hyrule Warriors - Eclipse of the Sun
+7.3.22: Homestuck - MeGaLoVania
+8.3.22: Fairy Tail - Erza vs. Erza
+9.3.22: Hello Sleepwalkers - 午夜の待ち合わせ // Goya no Machiawase
+10.3.22: Mario Kart Wii - Toad's Factory
+11.3.22: An Endless Sporadic - Galactic Tactic
+12.3.22: Sabaton - No Bullets Fly
+13.3.22: Kero Kero Bonito - I'd Rather Sleep
+14.3.22: Guilty Gear Xrd -Sign- - Magnolia Èclair
+15.3.22: Persona PSP - Dream of Butterfly
+17.3.22: Pokémon Diamond & Pearl - Lake
+17.3.22: TRUE - Dream Solister
+19.3.22: Rush - Xanadu
+19.3.22: Stratovarius - Learning to Fly
+20.3.22: Stella Jang - Under Caffeine
+21.3.22: Ella FItzgerald - Sunshine of Your Love
+22.3.22: Paul McCartney & Wings - Band on the Run
+23.3.22: The World Ends With You - Hybrid
+23.3.22: Daft Punk - Veridis Quo
+31.3.22: Naruto Shippuden - Heaven-Shaking Event
+31.3.22: JAWNY - Anything you want
+31.3.22: Tsuko G. - エアーマンが倒せない // Airman ga Taosenai
+31.3.22: How to Train Your Dragon 2 - Where No One Goes
+31.3.22: Visigoth - Fireseeker
+31.3.22: Daft Punk - One More Time
+31.3.22: Foo Fighters - Everlong
